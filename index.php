@@ -1,0 +1,3 @@
+<?
+        header('Location: /opencl.html')
+?>
